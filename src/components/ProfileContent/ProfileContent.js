@@ -7,8 +7,8 @@ const ProfileContent = props => {
     <div className="content">
       <h3>Age:</h3>
       { props.age }
-      <h3>Height</h3>
-      { props.height }
+      <h3>Weight</h3>
+      { props.weight }
       <h3>City</h3>
       { props.city }
       <h3>Bio</h3>
